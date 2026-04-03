@@ -1,2 +1,2 @@
 # IndiaJobMonitor.
-Job aggregator planform for job seekers
+Job aggregator platform for Indian Job seekers
