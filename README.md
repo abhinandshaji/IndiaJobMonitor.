@@ -3,7 +3,9 @@
 > Aggregate. Search. Apply. — One board for all jobs in India, sourced directly from company career pages.
 
 **🔗 Live:** https://indiajobmonitor.replit.app/
+
 **📋 Kanban Board:** https://github.com/users/abhinandshaji/projects/4
+
 **GitHub:** https://github.com/abhinandshaji/IndiaJobMonitor.
 
 **The Problem**
