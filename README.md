@@ -11,7 +11,8 @@
 **The Problem**
 
 The job application journey has 3 stages:
-🔍 Discovery → 📋 Evaluation → ✅ Apply
+
+> 🔍 Discovery → 📋 Evaluation → ✅ Apply
 Most job boards optimise for Evaluation and Apply. Discovery remains broken — job seekers spend hours across fragmented platforms, missing roles posted directly on company career pages that never make it to major boards. The core friction is in finding the right role, not applying to it.
 
 **The Solution**
